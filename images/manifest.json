@@ -1,0 +1,1061 @@
+{
+  "generatedAt": "2026-11-18",
+  "places": {
+    "todaiji": {
+      "name": "東大寺（大仏殿）",
+      "nameEn": "Todai-ji Daibutsuden",
+      "kind": "destination",
+      "selected": "01-todai-ji-daibutsuden-front-view-in-2011.jpg",
+      "objectPosition": "50% 48%",
+      "dominantColor": "#979894",
+      "blurDataUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAQABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgADBP/EACQQAAICAgAEBwAAAAAAAAAAAAECAwQAEQUGEiIhQnGBkbHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQEAAgMAAAAAAAAAAAAAAAAAAQIRElH/2gAMAwEAAhEDEQA/AEt3jdWjMYpy4fWx2nR98515no707EegJ/MOvUtWFdyWdvKOskfOYx8Msx7LxsBonsbZ3kzEh9FKssSyKCAw2OoaOWC6t2xBCEdAWB8TJIwP3lk2r0f/2Q==",
+      "candidates": [
+        {
+          "filename": "01-todai-ji-daibutsuden-front-view-in-2011.jpg",
+          "path": "/images/places/todaiji/01-todai-ji-daibutsuden-front-view-in-2011.jpg",
+          "width": 1100,
+          "height": 889,
+          "bytes": 167313,
+          "artist": "ONO Masanobu",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Todai-ji_Daibutsuden_front_view_in_2011.jpg"
+        },
+        {
+          "filename": "02-nara-todai-ji-daibutsuden-interior-daibutsu-05.jpg",
+          "path": "/images/places/todaiji/02-nara-todai-ji-daibutsuden-interior-daibutsu-05.jpg",
+          "width": 1100,
+          "height": 916,
+          "bytes": 263796,
+          "artist": "Zairon",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Todai-ji_Daibutsuden_Interior_Daibutsu_05.jpg"
+        },
+        {
+          "filename": "03-t-dai-ji-daibutsuden-june-2019.jpg",
+          "path": "/images/places/todaiji/03-t-dai-ji-daibutsuden-june-2019.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 178334,
+          "artist": "Cun Cun",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_Daibutsuden,_June_2019.jpg"
+        },
+        {
+          "filename": "04-nara-todai-ji-daibutsuden-interior-daibutsu-07.jpg",
+          "path": "/images/places/todaiji/04-nara-todai-ji-daibutsuden-interior-daibutsu-07.jpg",
+          "width": 1100,
+          "height": 889,
+          "bytes": 291574,
+          "artist": "Zairon",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Todai-ji_Daibutsuden_Interior_Daibutsu_07.jpg"
+        },
+        {
+          "filename": "05-nara-todai-ji-daibutsuden-interior-daibutsu-04.jpg",
+          "path": "/images/places/todaiji/05-nara-todai-ji-daibutsuden-interior-daibutsu-04.jpg",
+          "width": 1100,
+          "height": 895,
+          "bytes": 266093,
+          "artist": "Zairon",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Todai-ji_Daibutsuden_Interior_Daibutsu_04.jpg"
+        },
+        {
+          "filename": "06-nara-todai-ji-daibutsuden-interior-daibutsu-alta.jpg",
+          "path": "/images/places/todaiji/06-nara-todai-ji-daibutsuden-interior-daibutsu-alta.jpg",
+          "width": 1100,
+          "height": 855,
+          "bytes": 231262,
+          "artist": "Zairon",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Todai-ji_Daibutsuden_Interior_Daibutsu_Altar.jpg"
+        },
+        {
+          "filename": "07-nara-todai-ji-daibutsuden-exterior-roof-2.jpg",
+          "path": "/images/places/todaiji/07-nara-todai-ji-daibutsuden-exterior-roof-2.jpg",
+          "width": 1100,
+          "height": 855,
+          "bytes": 267526,
+          "artist": "Zairon",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Todai-ji_Daibutsuden_Exterior_Roof_2.jpg"
+        },
+        {
+          "filename": "08-nara-todai-ji-daibutsuden-interior-daibutsu-06.jpg",
+          "path": "/images/places/todaiji/08-nara-todai-ji-daibutsuden-interior-daibutsu-06.jpg",
+          "width": 1100,
+          "height": 868,
+          "bytes": 257983,
+          "artist": "Zairon",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Todai-ji_Daibutsuden_Interior_Daibutsu_06.jpg"
+        },
+        {
+          "filename": "09-nara-todai-ji-daibutsuden-interior-daibutsu-03.jpg",
+          "path": "/images/places/todaiji/09-nara-todai-ji-daibutsuden-interior-daibutsu-03.jpg",
+          "width": 1100,
+          "height": 876,
+          "bytes": 294036,
+          "artist": "Zairon",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Todai-ji_Daibutsuden_Interior_Daibutsu_03.jpg"
+        },
+        {
+          "filename": "10-nara-todai-ji-daibutsuden-interior-roof-piece.jpg",
+          "path": "/images/places/todaiji/10-nara-todai-ji-daibutsuden-interior-roof-piece.jpg",
+          "width": 1100,
+          "height": 821,
+          "bytes": 163943,
+          "artist": "Zairon",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Todai-ji_Daibutsuden_Interior_Roof_Piece.jpg"
+        }
+      ]
+    },
+    "kyobate-station": {
+      "name": "JR京終駅",
+      "nameEn": "Kyobate Station",
+      "kind": "spot",
+      "selected": "01-jr-ky-bate-station-20190426-cropped.jpg",
+      "objectPosition": "50% 50%",
+      "dominantColor": "#a1a096",
+      "blurDataUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACA//EACMQAQACAQMCBwAAAAAAAAAAAAEAAhEFEiEEQQMTFSJRYZL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAaEQACAwEBAAAAAAAAAAAAAAAAAgETUQMS/9oADAMBAAIRAxEAPwBq+rdG13GWvy8Tn6n0mRc4e4kJpQ8toBtxyIOZutV2nsDHahMT1bR8KK11LTk58Xb9WlCrUauBr+ZStbQrg//Z",
+      "candidates": [
+        {
+          "filename": "01-jr-ky-bate-station-20190426-cropped.jpg",
+          "path": "/images/places/kyobate-station/01-jr-ky-bate-station-20190426-cropped.jpg",
+          "width": 1100,
+          "height": 734,
+          "bytes": 192519,
+          "artist": "切干大根 (talk)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:JR-Ky%C5%8Dbate_Station_20190426_cropped.jpg"
+        },
+        {
+          "filename": "02-jr-ky-bate-station-20190426.jpg",
+          "path": "/images/places/kyobate-station/02-jr-ky-bate-station-20190426.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 131203,
+          "artist": "切干大根",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:JR-Ky%C5%8Dbate_Station_20190426.jpg"
+        },
+        {
+          "filename": "03-jr-ky-bate-station-inside-20190426.jpg",
+          "path": "/images/places/kyobate-station/03-jr-ky-bate-station-inside-20190426.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 161579,
+          "artist": "切干大根",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:JR-Ky%C5%8Dbate_Station_inside_20190426.jpg"
+        },
+        {
+          "filename": "04-jr-ky-bate-station-zaisanhy.jpg",
+          "path": "/images/places/kyobate-station/04-jr-ky-bate-station-zaisanhy.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 146908,
+          "artist": "切干大根",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:JR-Ky%C5%8Dbate_Station_Zaisanhy%C5%8D.jpg"
+        },
+        {
+          "filename": "05-kyobate-station-20180924.jpg",
+          "path": "/images/places/kyobate-station/05-kyobate-station-20180924.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 218455,
+          "artist": "Shurishiki",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kyobate_Station_20180924.jpg"
+        },
+        {
+          "filename": "06-kyobate-station-waiting-room-20180924.jpg",
+          "path": "/images/places/kyobate-station/06-kyobate-station-waiting-room-20180924.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 158553,
+          "artist": "Shurishiki",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kyobate_Station_waiting_room_20180924.jpg"
+        },
+        {
+          "filename": "07-kyobate-station1.jpg",
+          "path": "/images/places/kyobate-station/07-kyobate-station1.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 226322,
+          "artist": "Takuma-sa",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kyobate_Station1.JPG"
+        },
+        {
+          "filename": "08-kyobate-station2.jpg",
+          "path": "/images/places/kyobate-station/08-kyobate-station2.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 246984,
+          "artist": "Takuma-sa",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kyobate_Station2.JPG"
+        },
+        {
+          "filename": "09-kyobate-station3.jpg",
+          "path": "/images/places/kyobate-station/09-kyobate-station3.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 265361,
+          "artist": "Takuma-sa",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kyobate_Station3.JPG"
+        },
+        {
+          "filename": "10-kyoubate-west-japan-railway-20080802.jpg",
+          "path": "/images/places/kyobate-station/10-kyoubate-west-japan-railway-20080802.jpg",
+          "width": 1100,
+          "height": 732,
+          "bytes": 167864,
+          "artist": "Noneotuho (talk)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kyoubate,_West_Japan_Railway,_20080802.jpg"
+        }
+      ]
+    },
+    "irie-photo-museum": {
+      "name": "入江泰吉記念 奈良市写真美術館",
+      "nameEn": "Irie Taikichi Memorial Nara City Museum of Photography",
+      "kind": "spot",
+      "selected": "01-irie-taikichi-memorial-museum.jpg",
+      "objectPosition": "52% 45%",
+      "dominantColor": "#5d6c7e",
+      "blurDataUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACIQAAEDBAICAwAAAAAAAAAAAAEAAgQDBRESEyEUQVFSgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBA1ET/9oADAMBAAIRAxEAPwBu7QqVtj06jHmpu7QAtPwo7pfepZ2CMkAqnf7x50dgjsI0JcQ72sw+5185BA/FWLX0nNa4O1Zr+Q8cd2o+wQkjeJZwC8HAwMhCTY+jmuH/2Q==",
+      "candidates": [
+        {
+          "filename": "01-irie-taikichi-memorial-museum.jpg",
+          "path": "/images/places/irie-photo-museum/01-irie-taikichi-memorial-museum.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 169947,
+          "artist": "user:Amagase",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Irie_Taikichi_Memorial_Museum.jpg"
+        },
+        {
+          "filename": "02-itmmpnc01s3872.jpg",
+          "path": "/images/places/irie-photo-museum/02-itmmpnc01s3872.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 166471,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:ITMMPNC01s3872.jpg"
+        },
+        {
+          "filename": "03-nara-old-building-aota.jpg",
+          "path": "/images/places/irie-photo-museum/03-nara-old-building-aota.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 169501,
+          "artist": "Kochizufan",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Old_Building_Aota.jpg"
+        },
+        {
+          "filename": "04-near-old-residence-of-shiga-naoya-panoramio.jpg",
+          "path": "/images/places/irie-photo-museum/04-near-old-residence-of-shiga-naoya-panoramio.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 206243,
+          "artist": "Nagono",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Near_Old_Residence_of_Shiga-naoya_-_panoramio.jpg"
+        },
+        {
+          "filename": "05-near-shinyakushiji-temple-panoramio.jpg",
+          "path": "/images/places/irie-photo-museum/05-near-shinyakushiji-temple-panoramio.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 198061,
+          "artist": "Nagono",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Near_Shinyakushiji_Temple_-_panoramio.jpg"
+        },
+        {
+          "filename": "06-2017-32809893803.jpg",
+          "path": "/images/places/irie-photo-museum/06-2017-32809893803.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 299854,
+          "artist": "蘇育群",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:%E6%98%A5%E3%81%AE%E8%8A%B1_2017_(32809893803).jpg"
+        },
+        {
+          "filename": "07-fuk-in-takabatakech-nara-04.jpg",
+          "path": "/images/places/irie-photo-museum/07-fuk-in-takabatakech-nara-04.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 295863,
+          "artist": "Higa4",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Fuk%C5%AB-in_(Takabatakech%C5%8D,_Nara)_04.jpg"
+        },
+        {
+          "filename": "08-fuk-in-takabatakech-nara-07.jpg",
+          "path": "/images/places/irie-photo-museum/08-fuk-in-takabatakech-nara-07.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 299161,
+          "artist": "Higa4",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Fuk%C5%AB-in_(Takabatakech%C5%8D,_Nara)_07.jpg"
+        },
+        {
+          "filename": "09-fuk-in-takabatakech-nara-05.jpg",
+          "path": "/images/places/irie-photo-museum/09-fuk-in-takabatakech-nara-05.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 272987,
+          "artist": "Higa4",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Fuk%C5%AB-in_(Takabatakech%C5%8D,_Nara)_05.jpg"
+        },
+        {
+          "filename": "10-fuk-in-takabatakech-nara-01.jpg",
+          "path": "/images/places/irie-photo-museum/10-fuk-in-takabatakech-nara-01.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 260949,
+          "artist": "Higa4",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Fuk%C5%AB-in_(Takabatakech%C5%8D,_Nara)_01.jpg"
+        }
+      ]
+    },
+    "shiga-naoya-house": {
+      "name": "志賀直哉旧居",
+      "nameEn": "Former Residence of Shiga Naoya",
+      "kind": "spot",
+      "selected": "06-naoya-shiga-old-residence-in-nara.jpg",
+      "objectPosition": "50% 45%",
+      "dominantColor": "#54564c",
+      "blurDataUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEERITIQUGcSIxQVFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8AUdyXs0Fwm+FZl4bIBXxWWw6/dQwywGdmiK4CyHUQfw+ahd2UMe6uCc6cHPyaW3sYQpcgkgfdZjElNeOz6nzIx5LHnNFSkk9ZCqABxj3oooP/2Q==",
+      "candidates": [
+        {
+          "filename": "01-naoya-shiga-old-house03s3872.jpg",
+          "path": "/images/places/shiga-naoya-house/01-naoya-shiga-old-house03s3872.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 264763,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Naoya_Shiga_Old_House03s3872.jpg"
+        },
+        {
+          "filename": "02-naoya-shiga-old-house04s3200.jpg",
+          "path": "/images/places/shiga-naoya-house/02-naoya-shiga-old-house04s3200.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 283800,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Naoya_Shiga_Old_House04s3200.jpg"
+        },
+        {
+          "filename": "03-naoya-shiga-old-house05s3200.jpg",
+          "path": "/images/places/shiga-naoya-house/03-naoya-shiga-old-house05s3200.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 211665,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Naoya_Shiga_Old_House05s3200.jpg"
+        },
+        {
+          "filename": "04-naoya-shiga-old-house06s3200.jpg",
+          "path": "/images/places/shiga-naoya-house/04-naoya-shiga-old-house06s3200.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 266797,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Naoya_Shiga_Old_House06s3200.jpg"
+        },
+        {
+          "filename": "05-naoya-shiga-old-house08s3200.jpg",
+          "path": "/images/places/shiga-naoya-house/05-naoya-shiga-old-house08s3200.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 207293,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Naoya_Shiga_Old_House08s3200.jpg"
+        },
+        {
+          "filename": "06-naoya-shiga-old-residence-in-nara.jpg",
+          "path": "/images/places/shiga-naoya-house/06-naoya-shiga-old-residence-in-nara.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 239855,
+          "artist": "Sho Horiuchi",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Naoya_Shiga_old_residence_in_Nara.JPG"
+        },
+        {
+          "filename": "07-old-house-of-naoya-shiga.jpg",
+          "path": "/images/places/shiga-naoya-house/07-old-house-of-naoya-shiga.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 234619,
+          "artist": "user:Amagase",
+          "license": "CC BY-SA 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Old_House_of_Naoya_Shiga.jpg"
+        },
+        {
+          "filename": "08-photo.jpg",
+          "path": "/images/places/shiga-naoya-house/08-photo.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 266241,
+          "artist": "Sho Horiuchi",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:%E5%BF%97%E8%B3%80%E7%9B%B4%E5%93%89%E6%97%A7%E5%B1%85_%E4%B8%AD%E5%BA%AD.JPG"
+        },
+        {
+          "filename": "09-panoramio.jpg",
+          "path": "/images/places/shiga-naoya-house/09-panoramio.jpg",
+          "width": 1100,
+          "height": 739,
+          "bytes": 225001,
+          "artist": "shikabane taro",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:%E5%BF%97%E8%B3%80%E7%9B%B4%E5%93%89%E6%97%A7%E5%B1%85%E3%83%BB%E5%AD%90%E4%BE%9B%E3%83%97%E3%83%BC%E3%83%AB_-_panoramio.jpg"
+        }
+      ]
+    },
+    "futaiji": {
+      "name": "不退寺",
+      "nameEn": "Futaiji Temple",
+      "kind": "spot",
+      "selected": "03-140531-futaiji-nara-japan04s3.jpg",
+      "objectPosition": "50% 45%",
+      "dominantColor": "#717d4d",
+      "blurDataUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAIhAAAgEEAgIDAQAAAAAAAAAAAQIDAAQREgUxEyEUQVGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIE/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACESH/2gAMAwEAAhEDEQA/AHF8k9j5Y3Lsm2RquxP7VH5ZJGeWGS7DHs6eh/KxQxv8Q3LSbMMYBHqr8dbDk0mDN4vGO0HdZc7U5BxsElwJJC4Dtn76zSqNYLEdBIxx6zSoXJ5F/9k=",
+      "candidates": [
+        {
+          "filename": "01-140531-futaiji-nara-japan08s3.jpg",
+          "path": "/images/places/futaiji/01-140531-futaiji-nara-japan08s3.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 279651,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:140531_Futaiji_Nara_Japan08s3.jpg"
+        },
+        {
+          "filename": "02-140531-futaiji-nara-japan09s3.jpg",
+          "path": "/images/places/futaiji/02-140531-futaiji-nara-japan09s3.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 294708,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:140531_Futaiji_Nara_Japan09s3.jpg"
+        },
+        {
+          "filename": "03-140531-futaiji-nara-japan04s3.jpg",
+          "path": "/images/places/futaiji/03-140531-futaiji-nara-japan04s3.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 285294,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:140531_Futaiji_Nara_Japan04s3.jpg"
+        },
+        {
+          "filename": "04-140531-futaiji-nara-japan05s3.jpg",
+          "path": "/images/places/futaiji/04-140531-futaiji-nara-japan05s3.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 283195,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:140531_Futaiji_Nara_Japan05s3.jpg"
+        },
+        {
+          "filename": "05-140531-futaiji-nara-japan06s3.jpg",
+          "path": "/images/places/futaiji/05-140531-futaiji-nara-japan06s3.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 270595,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:140531_Futaiji_Nara_Japan06s3.jpg"
+        },
+        {
+          "filename": "06-futaiji-hondo.jpg",
+          "path": "/images/places/futaiji/06-futaiji-hondo.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 279618,
+          "artist": "KENPEI",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Futaiji_hondo.jpg"
+        },
+        {
+          "filename": "07-futaiji-keidai1.jpg",
+          "path": "/images/places/futaiji/07-futaiji-keidai1.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 301453,
+          "artist": "KENPEI",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Futaiji_keidai1.jpg"
+        },
+        {
+          "filename": "08-140531-futaiji-nara-japan01s3.jpg",
+          "path": "/images/places/futaiji/08-140531-futaiji-nara-japan01s3.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 257731,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:140531_Futaiji_Nara_Japan01s3.jpg"
+        },
+        {
+          "filename": "09-140531-futaiji-nara-japan02s3.jpg",
+          "path": "/images/places/futaiji/09-140531-futaiji-nara-japan02s3.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 296707,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:140531_Futaiji_Nara_Japan02s3.jpg"
+        },
+        {
+          "filename": "10-140531-futaiji-nara-japan03n.jpg",
+          "path": "/images/places/futaiji/10-140531-futaiji-nara-japan03n.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 273805,
+          "artist": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:140531_Futaiji_Nara_Japan03n.jpg"
+        }
+      ]
+    },
+    "jr-nara": {
+      "name": "JR奈良駅",
+      "nameEn": "JR Nara Station",
+      "kind": "destination",
+      "selected": "09-jr-nara-station-building-2013-03-02.jpg",
+      "objectPosition": "50% 45%",
+      "dominantColor": "#878177",
+      "blurDataUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwQF/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDEQAEEkEFEyGBIkNR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEQMRAD8AnNqI42WNPnIxAA4F/uXDpQZ0k1biWje29qr65xfWEqLMshIN2W85phkaJyxqSx9lnDWjZZzUjIJtLENiywqBwGAwzgHqJHjsx+hhgND/2Q==",
+      "candidates": [
+        {
+          "filename": "01-downtown-of-nara-city01.jpg",
+          "path": "/images/places/jr-nara/01-downtown-of-nara-city01.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 176591,
+          "artist": "Nryate",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Downtown_of_Nara_City01.jpg"
+        },
+        {
+          "filename": "02-jr-nara-sta-2005-panoramio.jpg",
+          "path": "/images/places/jr-nara/02-jr-nara-sta-2005-panoramio.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 249341,
+          "artist": "Nagono",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:JR_Nara_Sta._2005_-_panoramio.jpg"
+        },
+        {
+          "filename": "03-jr-nara-sta-2007-panoramio.jpg",
+          "path": "/images/places/jr-nara/03-jr-nara-sta-2007-panoramio.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 160786,
+          "artist": "Nagono",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:JR_Nara_Sta._2007_-_panoramio.jpg"
+        },
+        {
+          "filename": "04-jr-nara-sta-e-2005-panoramio.jpg",
+          "path": "/images/places/jr-nara/04-jr-nara-sta-e-2005-panoramio.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 170016,
+          "artist": "Nagono",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:JR_Nara_Sta._E._2005_-_panoramio.jpg"
+        },
+        {
+          "filename": "05-nara-20080812171054-8675738076.jpg",
+          "path": "/images/places/jr-nara/05-nara-20080812171054-8675738076.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 174346,
+          "artist": "inunami",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_20080812171054_(8675738076).jpg"
+        },
+        {
+          "filename": "06-nara-sta-s-w-2007-panoramio-1.jpg",
+          "path": "/images/places/jr-nara/06-nara-sta-s-w-2007-panoramio-1.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 203201,
+          "artist": "Nagono",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Sta._S.W._2007_-_panoramio_(1).jpg"
+        },
+        {
+          "filename": "07-nara-sta-s-w-2007-panoramio.jpg",
+          "path": "/images/places/jr-nara/07-nara-sta-s-w-2007-panoramio.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 173439,
+          "artist": "Nagono",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara_Sta._S.W._2007_-_panoramio.jpg"
+        },
+        {
+          "filename": "08-sanjohonmachi-nara-nara-prefecture-630-8122-japa.jpg",
+          "path": "/images/places/jr-nara/08-sanjohonmachi-nara-nara-prefecture-630-8122-japa.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 185224,
+          "artist": "Fumihiko Ueno",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Sanjohonmachi,_Nara,_Nara_Prefecture_630-8122,_Japan_-_panoramio_(1).jpg"
+        },
+        {
+          "filename": "09-jr-nara-station-building-2013-03-02.jpg",
+          "path": "/images/places/jr-nara/09-jr-nara-station-building-2013-03-02.jpg",
+          "width": 1100,
+          "height": 730,
+          "bytes": 145914,
+          "artist": "Satoshi KAYA from Japan",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:JR_Nara_Station_building_2013-03-02.jpg"
+        },
+        {
+          "filename": "10-jr-nara-station-20140901.jpg",
+          "path": "/images/places/jr-nara/10-jr-nara-station-20140901.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 119185,
+          "artist": "Degueulasse",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:JR_Nara_Station_20140901.jpg"
+        }
+      ]
+    },
+    "kintetsu-nara": {
+      "name": "近鉄奈良駅",
+      "nameEn": "Kintetsu Nara Station",
+      "kind": "destination",
+      "selected": "01-kinteetsu-nara-sta-001.jpg",
+      "objectPosition": "50% 48%",
+      "dominantColor": "#7a7b7e",
+      "blurDataUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAgX/xAAhEAACAQMDBQAAAAAAAAAAAAABAgADBBEFEkETIjEyUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AHbfWrdUALkA/RFrfV6yvu67e2cHmcRGyAMczfamTtEtIr21W2qnc9ZFJHgmEi2r4Y4QQkH/2Q==",
+      "candidates": [
+        {
+          "filename": "01-kinteetsu-nara-sta-001.jpg",
+          "path": "/images/places/kintetsu-nara/01-kinteetsu-nara-sta-001.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 160618,
+          "artist": "東京特許許可局",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kinteetsu_Nara_sta_001.jpg"
+        },
+        {
+          "filename": "02-kintetsu-nara-sta-002.jpg",
+          "path": "/images/places/kintetsu-nara/02-kintetsu-nara-sta-002.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 184982,
+          "artist": "東京特許許可局",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kintetsu_Nara_sta_002.jpg"
+        },
+        {
+          "filename": "03-kintetsu-nara-station-20140901.jpg",
+          "path": "/images/places/kintetsu-nara/03-kintetsu-nara-station-20140901.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 139045,
+          "artist": "Degueulasse",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kintetsu_Nara_station_20140901.jpg"
+        },
+        {
+          "filename": "04-kintetsu-nara-station-20140902.jpg",
+          "path": "/images/places/kintetsu-nara/04-kintetsu-nara-station-20140902.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 157677,
+          "artist": "Degueulasse",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kintetsu_Nara_station_20140902.jpg"
+        },
+        {
+          "filename": "05-nara-nara-prefecture-japan-panoramio.jpg",
+          "path": "/images/places/kintetsu-nara/05-nara-nara-prefecture-japan-panoramio.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 184464,
+          "artist": "jetsun",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nara,_Nara_Prefecture,_Japan_-_panoramio.jpg"
+        },
+        {
+          "filename": "06-photo.jpg",
+          "path": "/images/places/kintetsu-nara/06-photo.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 253151,
+          "artist": "Mont Blank rich",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:%E8%BF%91%E9%89%84%E5%A5%88%E8%89%AF%E9%A7%85_%E5%85%A5%E5%8F%A3.jpg"
+        },
+        {
+          "filename": "07-photo.jpg",
+          "path": "/images/places/kintetsu-nara/07-photo.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 219074,
+          "artist": "Mont Blank rich",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:%E8%BF%91%E9%89%84%E5%A5%88%E8%89%AF%E9%A7%85_%E6%94%B9%E6%9C%AD%E5%8F%A3.jpg"
+        },
+        {
+          "filename": "08-2024.jpg",
+          "path": "/images/places/kintetsu-nara/08-2024.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 223675,
+          "artist": "Mont Blank rich",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:%E8%BF%91%E9%89%84%E5%A5%88%E8%89%AF%E9%A7%85%EF%BC%882024%E5%B9%B4%EF%BC%89.jpg"
+        },
+        {
+          "filename": "09-2025-7.jpg",
+          "path": "/images/places/kintetsu-nara/09-2025-7.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 202739,
+          "artist": "FZHS",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:%E8%BF%91%E9%93%81%E5%A5%88%E8%89%AF%E7%AB%99%EF%BC%882025%E5%B9%B47%E6%9C%88%EF%BC%89.jpg"
+        },
+        {
+          "filename": "10-kintetsu-nara-sta-2004-panoramio.jpg",
+          "path": "/images/places/kintetsu-nara/10-kintetsu-nara-sta-2004-panoramio.jpg",
+          "width": 1024,
+          "height": 768,
+          "bytes": 155441,
+          "artist": "Nagono",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kintetsu_Nara_Sta._2004_-_panoramio.jpg"
+        }
+      ]
+    },
+    "kasuga": {
+      "name": "春日大社",
+      "nameEn": "Kasuga Taisha",
+      "kind": "destination",
+      "selected": "04-kasuga-taisha-nara-15711281648.jpg",
+      "objectPosition": "48% 55%",
+      "dominantColor": "#705a4e",
+      "blurDataUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAG/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDABEhBAUxQRIUIlH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIREiH/2gAMAwEAAhEDEQA/AC9n1DoQWIAixx1SrOY2EsTMQ3fF6zPsGZkRUVejbF6RaWSBQjH4JxY4FHYcyJS/L7NDo9yWKJlY2PlfAqoGdn0riOSxJAYE/lVaFyTY2f/Z",
+      "candidates": [
+        {
+          "filename": "01-dougong-of-kasuga-taisha.jpg",
+          "path": "/images/places/kasuga/01-dougong-of-kasuga-taisha.jpg",
+          "width": 1100,
+          "height": 807,
+          "bytes": 145503,
+          "artist": "唐戈",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Dougong_of_Kasuga-taisha.JPG"
+        },
+        {
+          "filename": "02-kasuga-taisha-kasuga-grand-shrine-national-treas.jpg",
+          "path": "/images/places/kasuga/02-kasuga-taisha-kasuga-grand-shrine-national-treas.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 268114,
+          "artist": "Nekosuki",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kasuga_Taisha_Kasuga_Grand_Shrine_National_Treasure_World_heritage_%E5%9B%BD%E5%AE%9D%E3%83%BB%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E6%98%A5%E6%97%A5%E5%A4%A7%E7%A4%BE20.JPG"
+        },
+        {
+          "filename": "03-kasuga-taisha-shrine-nara-13324544703.jpg",
+          "path": "/images/places/kasuga/03-kasuga-taisha-shrine-nara-13324544703.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 231734,
+          "artist": "Guilhem Vellut from Annecy, France",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kasuga_Taisha_Shrine_@_Nara_(13324544703).jpg"
+        },
+        {
+          "filename": "04-kasuga-taisha-nara-15711281648.jpg",
+          "path": "/images/places/kasuga/04-kasuga-taisha-nara-15711281648.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 297668,
+          "artist": "x768",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kasuga_Taisha,_Nara_(15711281648).jpg"
+        },
+        {
+          "filename": "05-kasuga-taisha-20250829-170115.jpg",
+          "path": "/images/places/kasuga/05-kasuga-taisha-20250829-170115.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 268679,
+          "artist": "Taufik",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kasuga-taisha_20250829_170115.jpg"
+        },
+        {
+          "filename": "06-kasuga-taisha-20250829-170123.jpg",
+          "path": "/images/places/kasuga/06-kasuga-taisha-20250829-170123.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 251157,
+          "artist": "Taufik",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kasuga-taisha_20250829_170123.jpg"
+        },
+        {
+          "filename": "07-kasuga-taisha-shrine-nara-prefecture-april-2017.jpg",
+          "path": "/images/places/kasuga/07-kasuga-taisha-shrine-nara-prefecture-april-2017.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 265114,
+          "artist": "Olivier Bruchez",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kasuga-taisha_Shrine,_Nara_Prefecture;_April_2017_(02).jpg"
+        },
+        {
+          "filename": "08-kasuga-taisha-img-3671.jpg",
+          "path": "/images/places/kasuga/08-kasuga-taisha-img-3671.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 299545,
+          "artist": "Hyppolyte de Saint-Rambert",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kasuga-taisha_%E6%98%A5%E6%97%A5%E5%A4%A7%E7%A4%BE_IMG_3671.jpg"
+        },
+        {
+          "filename": "09-kasuga-taisha-img-3686.jpg",
+          "path": "/images/places/kasuga/09-kasuga-taisha-img-3686.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 282647,
+          "artist": "Hyppolyte de Saint-Rambert",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kasuga-taisha_%E6%98%A5%E6%97%A5%E5%A4%A7%E7%A4%BE_IMG_3686.jpg"
+        },
+        {
+          "filename": "10-kasuga-taisha-img-3688.jpg",
+          "path": "/images/places/kasuga/10-kasuga-taisha-img-3688.jpg",
+          "width": 1100,
+          "height": 733,
+          "bytes": 231848,
+          "artist": "Hyppolyte de Saint-Rambert",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kasuga-taisha_%E6%98%A5%E6%97%A5%E5%A4%A7%E7%A4%BE_IMG_3688.jpg"
+        }
+      ]
+    },
+    "shin-omiya": {
+      "name": "近鉄新大宮駅",
+      "nameEn": "Shin-Omiya Station",
+      "kind": "destination",
+      "selected": "02-kintetsu-shinoomiya-sta-001.jpg",
+      "objectPosition": "50% 52%",
+      "dominantColor": "#686f74",
+      "blurDataUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYBAgX/xAAjEAACAgEDAwUAAAAAAAAAAAABAgADBAUREhRxkSEiMTJR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEREiEx/9oADAMBAAIRAxEAPwDQxdXx0oXqGUqPlvyRbqeIyk0EsSPaCDEJ8u0DirEDvKC+1/Q2Nt3is1wMIasnIqymSy1UD8dj5MItKzAfZvMJabh//9k=",
+      "candidates": [
+        {
+          "filename": "01-4-chome-shibatsujich-nara-shi-nara-ken-630-8114.jpg",
+          "path": "/images/places/shin-omiya/01-4-chome-shibatsujich-nara-shi-nara-ken-630-8114.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 170252,
+          "artist": "Nagono",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:4_Chome_Shibatsujich%C5%8D,_Nara-shi,_Nara-ken_630-8114,_Japan_-_panoramio.jpg"
+        },
+        {
+          "filename": "02-kintetsu-shinoomiya-sta-001.jpg",
+          "path": "/images/places/shin-omiya/02-kintetsu-shinoomiya-sta-001.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 182159,
+          "artist": "東京特許許可局",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kintetsu_Shinoomiya_sta_001.jpg"
+        },
+        {
+          "filename": "03-kintetsu-shinoomiya-sta-002.jpg",
+          "path": "/images/places/shin-omiya/03-kintetsu-shinoomiya-sta-002.jpg",
+          "width": 1100,
+          "height": 736,
+          "bytes": 201197,
+          "artist": "東京特許許可局",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kintetsu_Shinoomiya_sta_002.jpg"
+        },
+        {
+          "filename": "04-kintetsu1262-expnara-shinomiya-20130414.jpg",
+          "path": "/images/places/shin-omiya/04-kintetsu1262-expnara-shinomiya-20130414.jpg",
+          "width": 1100,
+          "height": 729,
+          "bytes": 205452,
+          "artist": "Olegushka",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kintetsu1262_ExpNara_ShinOmiya_20130414.jpg"
+        },
+        {
+          "filename": "05-photo.jpg",
+          "path": "/images/places/shin-omiya/05-photo.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 174685,
+          "artist": "AEONseven&i",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:%E5%A5%88%E8%89%AF%E5%B8%82%E5%A4%A7%E5%AE%AE%E9%80%9A%E3%82%8A%E5%A4%9C%E6%99%AF.JPG"
+        },
+        {
+          "filename": "06-yasuraginomichi-omiyadori-1.jpg",
+          "path": "/images/places/shin-omiya/06-yasuraginomichi-omiyadori-1.jpg",
+          "width": 1100,
+          "height": 825,
+          "bytes": 168247,
+          "artist": "https://www.flickr.com/people/tegioz/",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Yasuraginomichi_Omiyadori_1.jpg"
+        },
+        {
+          "filename": "07-shin-omiya-stn.jpg",
+          "path": "/images/places/shin-omiya/07-shin-omiya-stn.jpg",
+          "width": 960,
+          "height": 720,
+          "bytes": 152169,
+          "artist": "Original uploader was Bakkai at ja.wikipedia",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Shin-Omiya_stn.jpg"
+        },
+        {
+          "filename": "08-kintetsu-8600-series-011.jpg",
+          "path": "/images/places/shin-omiya/08-kintetsu-8600-series-011.jpg",
+          "width": 1020,
+          "height": 600,
+          "bytes": 143623,
+          "artist": "Tennen-Gas",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "commonsUrl": "https://commons.wikimedia.org/wiki/File:Kintetsu_8600_series_011.JPG"
+        }
+      ]
+    }
+  }
+}
